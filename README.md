@@ -17,3 +17,4 @@
 
 ---
 *Open to work | React, Next.js, TypeScript*
+<img width="1359" height="755" alt="image" src="https://github.com/user-attachments/assets/b9e22a1a-4dbd-4632-a213-a1966a8f95c5" />
