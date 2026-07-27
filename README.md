@@ -9,7 +9,7 @@
 
 **Стек:** Next.js 14, TypeScript, Tailwind CSS, Pusher, Nodemailer, Prisma, PostgreSQL
 
-**Демо:** (https://gourmet-restaurant-swart.vercel.app/)/](https://gourmet-restaurant-swart.vercel.app/)  
+**🌐 Live Demo:** [View Website](https://gourmet-restaurant-swart.vercel.app/)
 **Логин:** `admin@gmail.com`  
 **Пароль:** `adminadmin`
 
