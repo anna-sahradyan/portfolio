@@ -9,7 +9,7 @@
 
 **Стек:** Next.js 14, TypeScript, Tailwind CSS, Pusher, Nodemailer, Prisma, PostgreSQL
 
-**Демо:** https://stunning-croissant-449134.netlify.app/  
+**Демо:** [https://stunning-croissant-449134.netlify.app/](https://gourmet-restaurant-swart.vercel.app/)  
 **Логин:** `admin@gmail.com`  
 **Пароль:** `adminadmin`
 
