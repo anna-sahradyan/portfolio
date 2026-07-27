@@ -18,3 +18,16 @@
 ---
 *Open to work | React, Next.js, TypeScript*
 <img width="1359" height="755" alt="image" src="https://github.com/user-attachments/assets/b9e22a1a-4dbd-4632-a213-a1966a8f95c5" />
+<img width="1860" height="918" alt="image" src="https://github.com/user-attachments/assets/1472338d-4a69-4635-b925-66669c4ceaa3" />
+<img width="1896" height="896" alt="image" src="https://github.com/user-attachments/assets/9eef0e97-2ba1-488d-b8b5-86968d77e5a1" />
+<img width="1901" height="909" alt="image" src="https://github.com/user-attachments/assets/73d9e4f5-ca25-4eed-b25a-52d262c96c64" />
+<img width="1882" height="916" alt="image" src="https://github.com/user-attachments/assets/c7504f83-a75c-4076-ae7b-8fd2ac2d73e5" />
+<img width="1903" height="893" alt="image" src="https://github.com/user-attachments/assets/20ee8924-57bd-45dd-8302-79e0f671f162" />
+<img width="1888" height="914" alt="image" src="https://github.com/user-attachments/assets/4f725496-a1bb-4f7f-ae25-d7ffeb11edf7" />
+<img width="1909" height="910" alt="image" src="https://github.com/user-attachments/assets/7937cadc-090a-467c-88e6-2529edc8de41" />
+
+
+
+
+
+
