@@ -8,7 +8,7 @@ A full-featured CRM built from scratch with Next.js. Implements complex architec
 
 **Features:** Client, order, and booking management. Flexible content configuration per client. Real-time notifications. Password recovery. Role-based access: Admin / Manager / User.
 
-**Tech stack:** Next.js 14, TypeScript, Tailwind CSS, Pusher, Nodemailer, Prisma, PostgreSQL
+**Tech stack:** Next.js 14, TypeScript, Tailwind CSS, Pusher, Resend, Prisma, PostgreSQL
 
 🌐 **Live Demo:** [View Website](https://gourmet-restaurant-swart.vercel.app/)
 Login: viewer@test.com | Password: demoview123
