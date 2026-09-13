@@ -1,20 +1,19 @@
-# Анна | Frontend Developer
+# Anna | Frontend Developer
 
-## 🚀 Живые проекты
+## 🚀 Live Projects
 
-### CRM-система для управления бизнесом
-Полноценная CRM, разработанная с нуля на Next.js. Реализована сложная архитектура, real-time обновления, гибкая ролевая модель доступа.
+### CRM System for Business Management
 
-**Функционал:** Управление клиентами, заказами, бронированиями. Гибкая настройка контента под заказчика. Real-time уведомления. Восстановление пароля. Ролевая модель: Admin / Manager / User.
+A full-featured CRM built from scratch with Next.js. Implements complex architecture, real-time updates, and a flexible role-based access model.
 
-**Стек:** Next.js 14, TypeScript, Tailwind CSS, Pusher, Nodemailer, Prisma, PostgreSQL
+**Features:** Client, order, and booking management. Flexible content configuration per client. Real-time notifications. Password recovery. Role-based access: Admin / Manager / User.
 
-**🌐 Live Demo:** [View Website](https://gourmet-restaurant-swart.vercel.app/)
-**Логин:** viewer@test.com
-**Пароль:** demoview123
+**Tech stack:** Next.js 14, TypeScript, Tailwind CSS, Pusher, Nodemailer, Prisma, PostgreSQL
 
-**Исходный код:** приватный
+🌐 **Live Demo:** [View Website](https://gourmet-restaurant-swart.vercel.app/)
+Login: viewer@test.com | Password: demoview123
 
+**Source code:** Private
 ---
 *Open to work | React, Next.js, TypeScript*
 <img width="1359" height="755" alt="image" src="https://github.com/user-attachments/assets/b9e22a1a-4dbd-4632-a213-a1966a8f95c5" />
